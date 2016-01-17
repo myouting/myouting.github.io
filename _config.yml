@@ -4,7 +4,7 @@ disqus_shortname: youting
 comments: true
 share: true
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://www.myouting.com
+url:              http://www.myouting.xyz
 relative_permalinks: true
 
 
